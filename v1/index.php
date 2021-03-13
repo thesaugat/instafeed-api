@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Class to handle all riutes
+ *
+ * @author Saugat Timilsina
+ */
+
 require_once '../include/DbHandler.php';
 require_once '../include/PassHash.php';
 require '.././libs/Slim/Slim.php';

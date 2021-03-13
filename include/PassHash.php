@@ -1,5 +1,11 @@
 <?php
-
+/**
+ * Class to hash password
+ * This class will hash password and converts the real password to encrypted one so that server doenot keep record of user password.
+ *
+ * @author Saugat Timilsina
+ * @link URL Tutorial link
+ */
 class PassHash {
 
     // blowfish

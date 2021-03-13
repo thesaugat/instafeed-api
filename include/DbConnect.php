@@ -3,8 +3,7 @@
 /**
  * Handling database connection
  *
- * @author Ravi Tamada
- * @link URL Tutorial link
+ * @author Saugat Timilsina
  */
 class DbConnect {
 
